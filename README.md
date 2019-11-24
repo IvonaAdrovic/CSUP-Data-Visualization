@@ -17,4 +17,4 @@ Put here one line about your project.
 * Describe here technology stack you are using.
 
 
-ivona init
+ivona
